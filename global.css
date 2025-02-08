@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ABC Diatype';
-    src: url(assets/type/ABC_Diatype.woff2) format('woff2');
+    src: url('/assets/type/ABC_Diatype.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'ABC Diatype Medium';
-    src: url(assets/type/ABC_Diatype_Medium.woff2) format('woff2');
+    src: url('/assets/type/ABC_Diatype_Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap
