@@ -162,7 +162,7 @@ nav button.active {
 video {
     position: relative;
     width:100%;
-    max-width:700px;
+    max-width:650px;
     height:auto;
     object-fit:cover;
     aspect-ratio:16/9;
@@ -272,7 +272,7 @@ strong {
 
 h3 {
     font-family: var(--heading-font);
-    font-size: clamp(1.13rem, 4vw, 1.25rem);
+    font-size: clamp(1.12rem, 4vw, 1.24rem);
     font-weight: 500;
     line-height: 1.5;
     color: var(--primary-color)
@@ -280,7 +280,7 @@ h3 {
 
 h2 {
     font-family: var(--heading-font);
-    font-size: clamp(1.13rem, 4vw, 1.33rem);
+    font-size: clamp(1.12rem, 4vw, 1.24rem);
     font-weight: 500;
     line-height: 1.4;
     color: var(--accent-color);
@@ -407,7 +407,7 @@ html[data-force-color-mode="light"] {
     .section {
         width:100% !important;
         min-height:0dvh;
-        padding:4rem 1rem;
+        padding:6rem 1rem;
         border-bottom:2px solid var(--primary-color);
         border-right:none
     }
@@ -415,11 +415,11 @@ html[data-force-color-mode="light"] {
         padding-top:8rem !important;
     }
     .section:last-child {
-        padding-bottom:8rem !important;
+        padding-bottom:10rem !important;
     }    
     .section-inner {
         flex-direction:column;
-        max-width: 37rem;
+        max-width: 36rem;
         padding:0
     }
     .toggle-thingy {
