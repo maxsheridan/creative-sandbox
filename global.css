@@ -400,7 +400,7 @@ html[data-force-color-mode="light"] {
 
 @media screen and (max-width:1024px) {
     * {
-        scrollbar-width: unset
+        scrollbar-width: thin;
     }
     .modal-inner {
         display:block
