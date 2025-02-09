@@ -27,7 +27,7 @@
 
 :root {
     --body-font: 'ABC Diatype', Helvetica, Arial, sans-serif;
-    --body-font-size: clamp(1.025rem, 3vw, 1.094rem);
+    --body-font-size: clamp(1.063rem, 3vw, 1.094rem);
     --heading-font: 'ABC Diatype Medium', Helvetica, Arial, sans-serif;
 }
 
@@ -267,7 +267,7 @@ li a {
 
 h3 {
     font-family: var(--heading-font);
-    font-size: clamp(1.12rem, 4vw, 1.24rem);
+    font-size: clamp(1.2rem, 3vw, 1.33rem);
     font-weight: 500;
     line-height: 1.5;
     color: var(--primary-color)
@@ -275,7 +275,7 @@ h3 {
 
 h2 {
     font-family: var(--heading-font);
-    font-size: clamp(1.2rem, 4vw, 1.33rem);
+    font-size: clamp(1.2rem, 3vw, 1.33rem);
     font-weight: 500;
     line-height: 1.4;
     color: var(--accent-color);
@@ -284,7 +284,7 @@ h2 {
 
 h1 {
     font-family: var(--heading-font);
-    font-size: clamp(1.73rem, 4vw, 1.84rem);
+    font-size: clamp(1.66rem, 3vw, 1.84rem);
     font-weight: 500;
     line-height: 1.3;
     color: var(--primary-color);
