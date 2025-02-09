@@ -267,7 +267,7 @@ li a {
 
 h3 {
     font-family: var(--heading-font);
-    font-size: clamp(1.12rem, 4vw, 1.24rem);
+    font-size: clamp(1.22rem, 4vw, 1.27rem);
     font-weight: 500;
     line-height: 1.5;
     color: var(--primary-color)
@@ -275,7 +275,7 @@ h3 {
 
 h2 {
     font-family: var(--heading-font);
-    font-size: clamp(1.12rem, 4vw, 1.24rem);
+    font-size: clamp(1.22rem, 4vw, 1.27rem);
     font-weight: 500;
     line-height: 1.4;
     color: var(--accent-color);
