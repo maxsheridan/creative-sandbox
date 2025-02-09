@@ -27,7 +27,7 @@
 
 :root {
     --body-font: 'ABC Diatype', Helvetica, Arial, sans-serif;
-    --body-font-size: clamp(1.063rem, 3vw, 1.125rem);
+    --body-font-size: clamp(1.078rem, 3vw, 1.125rem);
     --heading-font: 'ABC Diatype Medium', Helvetica, Arial, sans-serif;
 }
 
