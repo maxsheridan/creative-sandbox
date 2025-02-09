@@ -291,7 +291,7 @@ h1 {
     margin: 0 0 1rem 0
 }
 
-#contact h1 {
+span h1 {
     color: var(--accent-color)
 }
 
@@ -402,15 +402,15 @@ html[data-force-color-mode="light"] {
     .section {
         width:100% !important;
         min-height:0dvh;
-        padding:6rem 1rem;
+        padding:4.5rem 1rem;
         border-bottom:2px solid var(--primary-color);
         border-right:none
     }
     .section:first-child {
-        padding-top:8rem !important;
+        padding-top:8.5rem !important;
     }
     .section:last-child {
-        padding-bottom:10rem !important;
+        padding-bottom:8.5rem !important;
     }    
     .section-inner {
         flex-direction:column;
